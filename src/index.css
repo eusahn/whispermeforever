@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("./assets/fonts/BebasNeue-Regular.otf") format("opentype"),
+         url("./assets/fonts/BebasNeue-Regular.ttf") format("ttf");
+}
+  
+
+@font-face {
+    font-family: "Aleo";
+    src: url("./assets/fonts/Aleo-Regular.otf") format("opentype"),
+         url("./assets/fonts/Aleo-Regular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Aleo";
+    src: url("./assets/fonts/Aleo-Bold.otf") format("opentype"),
+         url("./assets/fonts/Aleo-Bold.ttf") format("ttf");
+    font-weight: bold
+}
+
+@font-face {
+    font-family: "Aleo";
+    src: url("./assets/fonts/Aleo-Light.otf") format("opentype"),
+         url("./assets/fonts/Aleo-Light.ttf") format("ttf");
+    font-weight: light
+}
+
+@font-face {
+    font-family: "Aleo";
+    src: url("./assets/fonts/Aleo-Italic.otf") format("opentype"),
+         url("./assets/fonts/Aleo-Italic.ttf") format("ttf");
+    font-style: italic
+}
