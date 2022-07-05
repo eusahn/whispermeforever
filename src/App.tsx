@@ -122,6 +122,25 @@ function Main() {
             years before I launched this brand.
           </p>
         </div>
+        <div className="mt-6">
+          <p className="font-serif text-base text-gray-300">Are You A Team?</p>
+          <p className="mt-4 font-body text-xs text-gray-200">
+            Nope, I'm a one man business at the moment :)
+          </p>
+        </div>
+        <div className="mt-6">
+          <p className="font-serif text-base text-gray-300">
+            Where are you from?
+          </p>
+          <p className="mt-4 font-body text-xs text-gray-200">
+            I was born in Seoul, South Korea. Grew up in Vancouver, Canada since
+            I was 5 years old.
+          </p>
+        </div>
+        <div className="text-center text-white text-2xs opacity-80 font-serif mt-16 tracking-widest">
+          dedicated to the one and only
+          <p>© whispermeforever | 2022</p>
+        </div>
       </div>
     </div>
   );
