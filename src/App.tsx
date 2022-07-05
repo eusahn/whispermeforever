@@ -1,4 +1,5 @@
 import "./App.css";
+import { motion } from "framer-motion";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
           <p>forever</p>
         </div>
         <div className="mt-4 max-w-[264px] font-mono text-2xs tracking-widest text-gray-400">
+          <p></p>
           <p>you think a phenomenal life is your life</p>
           <p className="mt-2">
             a phenomenal life is what you do with other people's life with your
