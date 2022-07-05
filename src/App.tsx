@@ -88,7 +88,7 @@ function Main() {
             The best way to get in touch is through instagram @whispermeforever
             Send me a DM, and if I feel like I can create with you, I will give
             you a reply. I can't work with every single one of you. There has to
-            be interest mutuallys.
+            be interest both ways otherwise it won't be fun at all.
           </p>
         </div>
         <div className="mt-6">
