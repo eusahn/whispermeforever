@@ -3,6 +3,7 @@ import "./App.css";
 import TextIntro from "./components/TextIntro";
 import { motion, AnimatePresence } from "framer-motion";
 import { LocationMarkerIcon } from "@heroicons/react/outline";
+import InstagramIcon from "./assets/images/Instagram_Glyph_White.svg";
 
 function App() {
   const [isComplete, setIsComplete] = useState(false);
@@ -29,9 +30,13 @@ function App() {
 function Main() {
   return (
     <>
-      <p className="font-social text-white text-4xl opacity-90 fixed right-3 top-2 cursor-pointer">
+      <p className="text-white text-4xl opacity-90 fixed right-3 top-2 cursor-pointer">
         <a href="https://instagram.com/whispermeforever" target="_blank">
-          i
+          <img
+            src={InstagramIcon}
+            alt="Instagram"
+            className="w-4 h-4 fill-white"
+          />
         </a>
       </p>
       <div className="flex justify-center max-w-[400px] p-10">
