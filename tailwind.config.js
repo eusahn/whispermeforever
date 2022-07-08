@@ -7,6 +7,7 @@ module.exports = {
         headings: ["Playfair Display", "serif"],
         mono: ["Bebas Neue", "sans-serif"],
         body: ["Aleo", "sans-serif"],
+        social: ["Social Icons Plus"],
       },
       fontSize: {
         "2xs": "0.60rem",

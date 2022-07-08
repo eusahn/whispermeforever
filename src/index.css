@@ -35,3 +35,17 @@
          url("./assets/fonts/Aleo-Italic.ttf") format("ttf");
     font-style: italic
 }
+
+@font-face {
+    font-family: "Social Icons";
+    src: url("./assets/fonts/Socialico-Regular.otf") format("opentype"),
+         url("./assets/fonts/Socialico-Regular.ttf") format("ttf");
+    font-style: italic
+}
+
+@font-face {
+    font-family: "Social Icons Plus";
+    src: url("./assets/fonts/SocialicoPlus-Plus.otf") format("opentype"),
+         url("./assets/fonts/SocialicoPlus-Plus.ttf") format("ttf");
+    font-style: italic
+}
